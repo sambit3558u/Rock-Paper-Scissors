@@ -366,7 +366,7 @@ Aage game me ye features add kiye ja sakte hain:
 
 ## Author
 
-Created by Sambit
+Created by Sambit Kumar Patra 
 
 GitHub Profile:
 
